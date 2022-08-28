@@ -7,7 +7,8 @@ deykun04/deykun04 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![LRP3](https://user-images.githubusercontent.com/100220425/187074915-8f8d71f2-a165-4061-bba2-58cf5e8f233f.gif)
-![2unv](https://user-images.githubusercontent.com/100220425/187074956-17d39b31-4982-42a6-b9e2-34aad8459acd.gif)
+![V8E](https://user-images.githubusercontent.com/100220425/187074988-11a4e617-970d-46a6-81cd-7bd10d4ccdbf.gif)
+
 
 
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deykun04
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning С++ and C#
+- 🌱 I’m currently learning ASP.NET Core  and Entity Framework Core
 - 💞️ I’m studying in Igor Sikorsky Kyiv Polytechnic Institute
 <!---
 deykun04/deykun04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

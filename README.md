@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lebownb55keinzau18o4fphc2&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deykun04)](https://github.com/anuraghazra/github-readme-stats)
 

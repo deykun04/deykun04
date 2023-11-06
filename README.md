@@ -10,6 +10,10 @@ You can click the Preview link to take a look at your changes.
 ![WMDv](https://user-images.githubusercontent.com/100220425/187869669-9ea5c5ff-8589-4d6a-973c-744915c27b6e.gif)
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/100220425/187075011-161296db-8bbb-4548-9abd-285c05e91202.gif" alt="2unv">
+</p>
+
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=lebownb55keinzau18o4fphc2&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
   </a>

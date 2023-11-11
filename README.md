@@ -13,14 +13,23 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100220425/187075011-161296db-8bbb-4548-9abd-285c05e91202.gif" alt="2unv">
 </p>
-
-<div style="text-align: center;">
-  [![](https://raw.githubusercontent.com/deykun04/deykunchik/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/deykun04/deykunchik/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/deykun04/deykunchik/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/deykun04/deykunchik/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/deykun04/deykunchik/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</div>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/deykun04/deykunchik/master/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/deykun04/deykunchik/master/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos Per Language">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/deykun04/deykunchik/master/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/deykun04/deykunchik/master/profile-summary-card-output/dracula/3-stats.svg" alt="Stats">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/deykun04/deykunchik/master/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time">
+  </a>
+</p>
 
 
 
